@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name":"Rough is Tough",
+    "description":"I am a passionate and dedicated coder with good experience and in-depth knowledge of Data Structures and Algorithms. Hands-on experience in Javascript, Python, Php, Java, C++, Sql, HTML, SCSS etc. Fluent in making Web Apps using ReactJs, NodeJs (Full Stack Web Development) and concepts such as Routing, Redux and implementing Payment Getaways. Recently been working on applications of Machine Learning concepts such as Recommender System and Natural Language Processing. ",
+    "image":"Profilepic.jpeg",
+    "bio":"I have been a sucker for challenges all my life. Life sometimes get tough but Oh Boy I am Rough. I love to sketch in my leisure time, listen to music and watch Youtube maybe? I strongly believe this Decade is mine!",
+    "contactmessage":"Have some interesting ideas to work on? Let's get it!",
+    "email": "negiujjawal@gmail.com",
+    "phone": "9870868335",
+    "github":"#",
+    "project":"#",
+    "address":{
+      "street":"Hno-686, Near Lal Market, Sec-37, Noida",
+      "city":"Noida",
+      "state":"Uttar Pradesh",
+      "zip": "201303"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"/error.html",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"/error.html",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ujjwal-negi-743a0816b",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/ujjwal._.negi",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Ujjwal120",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Love Coding and Logical Reasoning. I Pratice regularly on various coding platforms like Codechef, Codeforces, Google Kickstart etc.",
+    "education":[
+      {
+        "school":"USIC&T (GGSIPU), Delhi - B.Tech CSE",
+        "degree":"Bachelor's in Computer Science Engineering",
+        "graduated":"2022",
+        "description":"The diverse crowd and just the right amount of students per course have been crucial in my personality development. The faculty here have exceeded my expectations. The environment for studies is ideal with good amount of support for students. With many events related to technology such as our college's very own technical fest InfoX there is healthy competition among students which is very important. Overall my journey till now has been quite rewarding with so much things learned and so much more to explore."
+      },
+      {
+        "school":"St. Mary’s Convent Sr. Sec. School, Gajraula - 10+2",
+        "degree":"PCM + Computer Science",
+        "graduated":"2017",
+        "description":"Completed my schooling in a convent school affiliated to CBSE. Fluent in English and have leadership qualities. Was appointed as the Head Boy of the senior wing in 12th Standard. Used-to of taking part in extra-curricular activities such as speech competitions, sports etc. Overall I would say I sailed through my school journey with lots of lesson and etiquettes learned as any student should."
+      }
+    ],
+    "work":[
+      {
+        "company":"Careers360 Internship",
+        "title":"Online QnA Facilitator",
+        "years":"July 2019 - September 2019",
+        "description":"It was a work from home Internship. With deadlines to meet. I solved queries of people who seeked help in various fields. I learned how to co-ordinate and work in a team."
+      },
+      {
+        "company":"Freelancing",
+        "title":"Web Developer",
+        "years":"Present",
+        "description":"I love to develop some skills like looking into interesting animations and applying them into various projects that I am being offered to be a part of."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Php",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+    ]
+  }
+}
